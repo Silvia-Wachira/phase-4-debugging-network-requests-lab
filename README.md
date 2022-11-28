@@ -63,11 +63,15 @@ developing your own process.
 - Add a new toy when the toy form is submitted
 
   - How I debugged:
+   -Corrected the typing error 
+
 
 - Update the number of likes for a toy
-
+ 
   - How I debugged:
+  -Rendered json data
 
 - Donate a toy to Goodwill (and delete it from our database)
 
   - How I debugged:
+  -Added a destroy path in the routes
